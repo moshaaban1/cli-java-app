@@ -55,8 +55,4 @@ public class Main {
             case 7 -> System.exit(0);
         }
     }
-
-    private static void viewAllUserBookedCars() {
-
-    }
 }
